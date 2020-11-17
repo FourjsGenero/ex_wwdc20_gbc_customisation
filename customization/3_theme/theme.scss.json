@@ -1,0 +1,13 @@
+{
+  "palette-primary" : "#41BCE4",
+  "theme-font-size-ratio" : 1.0,
+  "theme-grid-inner-gutter-x" : 15,
+  "theme-grid-inner-gutter-y" : 25,
+  "theme-disable-context-menu" : false,
+  "gbc-ChromeBarWidget-visible-items" : "about",
+  "theme-sidebar-always-visible-min-width" : "9999px" 
+}
+
+
+
+

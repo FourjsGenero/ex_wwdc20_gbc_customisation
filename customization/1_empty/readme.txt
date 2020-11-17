@@ -1,0 +1,1 @@
+Git does not allow empty directories so this file was created to avoid the directory being empty

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ANSI_X3.4-1968"?>
+<StyleList>
+  <Style name="Window">
+     <StyleAttribute name="windowType" value="normal" />
+  </Style>
+  <Style name="Image">
+     <StyleAttribute name="border" value="none" />
+  </Style>
+   <Style name="Window">
+     <StyleAttribute name="backgroundColor" value="#E7E7E7" />
+     <StyleAttribute name="ringMenuPosition" value="chrome" />
+  </Style>
+</StyleList>

@@ -1,0 +1,28 @@
+{
+  "compile": {
+    "mode": "cdev",
+    "customization": "customization/8_theme"
+  },
+  "customizationSuffix" : "8_theme",
+  "themes": [{
+      "name": "default",
+      "title": "Default",
+      "uses": ["platform/browser", "platform/desktop"]
+    },
+    {
+      "name": "red",
+      "title": "Red",
+      "uses": ["platform/browser", "platform/desktop", "red"]
+    },
+    {
+      "name": "green",
+      "title": "Green",
+      "uses": ["platform/browser", "platform/desktop", "green"]
+    },
+    {
+      "name": "yellow",
+      "title": "Yellow",
+      "uses": ["platform/browser", "platform/desktop", "yellow"]
+    }
+  ]
+}

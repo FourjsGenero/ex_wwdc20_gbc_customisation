@@ -1,0 +1,18 @@
+{
+  "compile": {
+    "mode": "cdev",
+    "customization": "customization/9_condtheme"
+  },
+  "customizationSuffix" : "9_condtheme",
+  "themes": [{
+      "name": "default",
+      "title": "Default",
+      "uses": ["platform/browser", "platform/desktop"]
+    },
+    {
+      "name": "default_mobile",
+      "title": "Default Mobile",
+      "uses": ["platform/browser", "platform/mobile", "mymobile"]
+    }
+  ]
+}
