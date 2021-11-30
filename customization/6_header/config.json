@@ -1,0 +1,12 @@
+{
+  "compile": {
+    "mode": "cdev",
+    "customization": "customization/6_header"
+  },
+  "customizationSuffix" : "6_header",
+  "themes": [{
+      "name": "default",
+      "title": "Default"
+    }
+  ]
+}

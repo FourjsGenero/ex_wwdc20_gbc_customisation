@@ -1,0 +1,12 @@
+{
+  "compile": {
+    "mode": "cdev",
+    "customization": "customization/5_circular_image"
+  },
+  "customizationSuffix" : "5_circular_image",
+  "themes": [{
+      "name": "default",
+      "title": "Default"
+    }
+  ]
+}

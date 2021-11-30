@@ -1,0 +1,12 @@
+{
+  "compile": {
+    "mode": "cdev",
+    "customization": "customization/2b_green"
+  },
+  "customizationSuffix" : "2b_green",
+  "themes": [{
+      "name": "default",
+      "title": "Default"
+    }
+  ]
+}

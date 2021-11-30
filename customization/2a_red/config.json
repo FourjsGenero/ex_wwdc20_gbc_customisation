@@ -1,0 +1,12 @@
+{
+  "compile": {
+    "mode": "cdev",
+    "customization": "customization/2a_red"
+  },
+  "customizationSuffix" : "2a_red",
+  "themes": [{
+      "name": "default",
+      "title": "Default"
+    }
+  ]
+}

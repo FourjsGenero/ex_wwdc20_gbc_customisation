@@ -1,0 +1,12 @@
+{
+  "compile": {
+    "mode": "cdev",
+    "customization": "customization/4_favicon"
+  },
+  "customizationSuffix" : "4_favicon",
+  "themes": [{
+      "name": "default",
+      "title": "Default"
+    }
+  ]
+}

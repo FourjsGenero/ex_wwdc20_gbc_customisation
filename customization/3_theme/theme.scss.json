@@ -5,9 +5,5 @@
   "theme-grid-inner-gutter-y" : 25,
   "theme-disable-context-menu" : false,
   "gbc-ChromeBarWidget-visible-items" : "about",
-  "theme-sidebar-always-visible-min-width" : "9999px" 
-}
-
-
-
-
+  "theme-sidebar-always-visible-min-width" : "9999px"
+}  

@@ -1,0 +1,12 @@
+{
+  "compile": {
+    "mode": "cdev",
+    "customization": "customization/7_frontcall"
+  },
+  "customizationSuffix" : "7_frontcall",
+  "themes": [{
+      "name": "default",
+      "title": "Default"
+    }
+  ]
+}
